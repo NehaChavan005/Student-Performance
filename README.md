@@ -37,4 +37,4 @@ I have gained an insight of the distribuation of Ethenic groups and the number o
 Students who have standard lunch type tend to have higher math scores than those who have free/reduced lunch type. The regression analysis showed that the lunch type, weekly study hours, and whether the student is the first child in their family are significant predictors of math score. The classification analysis predicted the grade of a student based on other variables with an accuracy of approximately 33.9%. The clustering analysis grouped students into clusters based on their characteristics and scores, which could help identify groups of students with similar performance and characteristics.
 
 ## Contact Information
-For any additional questions, please contact Darwin Maulik at darwinmaulik143@gmail.com.
+For any additional questions, please contact Neha Chavan at chavanneha5105@gmail.com.
